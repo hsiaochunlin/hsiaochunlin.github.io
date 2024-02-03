@@ -3987,6 +3987,9 @@ input[type=button].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
 }
 .navbar-nav .nav-link {
   padding-right: 0;
