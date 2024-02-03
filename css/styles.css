@@ -7621,6 +7621,7 @@ button.bg-dark:focus {
 .p-0 {
   padding: 0 !important;
   flex-direction: row;
+  overflow-x: auto;
 }
 
 .pt-0,
