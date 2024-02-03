@@ -7620,6 +7620,7 @@ button.bg-dark:focus {
 
 .p-0 {
   padding: 0 !important;
+  flex-direction: row;
 }
 
 .pt-0,
